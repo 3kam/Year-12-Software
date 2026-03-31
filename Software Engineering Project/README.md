@@ -1,5 +1,7 @@
 # Software Engineering Project — Year 12 (Stage 6) Software Engineering
-
+---
+This project took inspiration from **miketeachestech**, this inspiration of where he make a "example-major-work-school-canteen-ordering-system". **miketeachestech** CanteenEats – School Canteen Ordering System allows students to take a demonstration on what a project submission might look like for a year 12 student undertaking the nesa hsc software engineering course (at this stage.)
+---
 **Time allocation:** 30 hours (suggested format: project-based over the term, milestone reviews, presentation/demonstration sessions)
 
 ---
